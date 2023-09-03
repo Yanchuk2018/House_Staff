@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Yanchuk2018/House_Staff/static/css/main.1050152d.css",
+    "main.js": "/Yanchuk2018/House_Staff/static/js/main.db9c52d7.js",
+    "static/media/bg.jpg": "/Yanchuk2018/House_Staff/static/media/bg.0784d79599587de68c1b.jpg",
+    "index.html": "/Yanchuk2018/House_Staff/index.html",
+    "main.1050152d.css.map": "/Yanchuk2018/House_Staff/static/css/main.1050152d.css.map",
+    "main.db9c52d7.js.map": "/Yanchuk2018/House_Staff/static/js/main.db9c52d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1050152d.css",
+    "static/js/main.db9c52d7.js"
+  ]
+}
